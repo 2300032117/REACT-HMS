@@ -4,7 +4,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-       GITHUB PAGES - DEPLOYMENT
+      <header>
+         GITHUB PAGES - DEPLOYMENT
+      </header>
+      
     </div>
   );
 }
